@@ -5,6 +5,7 @@
             "Edlin\\Laravel\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "Ross Edlin",
