@@ -2,7 +2,7 @@
     "name": "rossedlin/edlin-laravel",
     "autoload": {
         "psr-4": {
-            "Edlin\Laravel\\": "src/"
+            "Edlin\\Laravel\\": "src/"
         }
     },
     "authors": [
