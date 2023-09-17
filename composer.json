@@ -1,0 +1,21 @@
+{
+    "name": "rossedlin/edlin-laravel",
+    "autoload": {
+        "psr-4": {
+            "Edlin\Laravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ross Edlin",
+            "email": "contact@codewithross.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4||^8.0",
+        "rossedlin/edlin-php": "^3.2"
+    },
+    "require-dev": {
+        "laravel/framework": "^7.0"
+    }
+}
