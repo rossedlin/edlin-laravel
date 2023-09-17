@@ -13,6 +13,10 @@
             "email": "contact@codewithross.com"
         }
     ],
+    "support": {
+        "issues": "https://github.com/rossedlin/edlin-laravel/issues",
+        "source": "https://github.com/rossedlin/edlin-laravel"
+    },
     "require": {
         "php": "^7.4||^8.0",
         "rossedlin/edlin-php": "^3.2"
