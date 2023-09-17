@@ -5,7 +5,7 @@
             "Edlin\\Laravel\\": "src/"
         }
     },
-    "version": "0.2.0",
+    "version": "0.3.0",
     "license": "MIT",
     "authors": [
         {
@@ -19,7 +19,7 @@
     },
     "require": {
         "php": "^7.4||^8.0",
-        "rossedlin/edlin-php": "^3.2"
+        "rossedlin/edlin-php": "^4.0"
     },
     "require-dev": {
         "laravel/framework": "^7.0"
