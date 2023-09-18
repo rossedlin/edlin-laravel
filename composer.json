@@ -18,7 +18,7 @@
     "source": "https://github.com/rossedlin/edlin-laravel"
   },
   "require": {
-    "php": "^7.4",
+    "php": "^7.4||^8.0",
     "rossedlin/edlin-php": "^4.0"
   },
   "require-dev": {
