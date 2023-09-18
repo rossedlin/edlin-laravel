@@ -1,27 +1,27 @@
 {
-    "name": "rossedlin/edlin-laravel",
-    "autoload": {
-        "psr-4": {
-            "Edlin\\Laravel\\": "src/"
-        }
-    },
-    "version": "0.3.1",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Ross Edlin",
-            "email": "contact@codewithross.com"
-        }
-    ],
-    "support": {
-        "issues": "https://github.com/rossedlin/edlin-laravel/issues",
-        "source": "https://github.com/rossedlin/edlin-laravel"
-    },
-    "require": {
-        "php": "^7.4||^8.0",
-        "rossedlin/edlin-php": "^4.0"
-    },
-    "require-dev": {
-        "laravel/framework": "^7.0"
+  "name": "rossedlin/edlin-laravel",
+  "autoload": {
+    "psr-4": {
+      "Edlin\\Laravel\\": "src/"
     }
+  },
+  "version": "0.4.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ross Edlin",
+      "email": "contact@codewithross.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/rossedlin/edlin-laravel/issues",
+    "source": "https://github.com/rossedlin/edlin-laravel"
+  },
+  "require": {
+    "php": "^7.4",
+    "rossedlin/edlin-php": "^4.0"
+  },
+  "require-dev": {
+    "laravel/framework": "^7.0"
+  }
 }
