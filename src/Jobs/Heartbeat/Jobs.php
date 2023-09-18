@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Jobs\Heartbeat;
+namespace Edlin\Laravel\Jobs\Heartbeat;
 
 use Exception;
 use Illuminate\Bus\Queueable;
