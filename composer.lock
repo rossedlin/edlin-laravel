@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0995c51e1aab12917c2d0492762dee7c",
+    "content-hash": "ef661908c569d2154685901e67c487af",
     "packages": [
         {
             "name": "rossedlin/edlin-php",
