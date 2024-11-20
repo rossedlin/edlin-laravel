@@ -7,10 +7,12 @@
   },
   "version": "0.5.0",
   "license": "MIT",
+  "homepage": "https://www.codewithross.com",
   "authors": [
     {
       "name": "Ross Edlin",
-      "email": "contact@codewithross.com"
+      "email": "hey@codewithross.com",
+      "homepage": "https://www.codewithross.com"
     }
   ],
   "support": {
