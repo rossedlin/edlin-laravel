@@ -19,7 +19,7 @@
   },
   "require": {
     "php": "^7.4||^8.0",
-    "rossedlin/edlin-php": "^4.0"
+    "rossedlin/edlin-php": "^4.1"
   },
   "require-dev": {
     "laravel/framework": "^7.0"

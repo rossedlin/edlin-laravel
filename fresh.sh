@@ -1,7 +1,7 @@
 
-rm composer.lock
-rm -R vendor
+rm -f composer.lock
+rm -Rf vendor
 
-composer update
+docker compose run --rm web composer update
 
-git add composer.lock
+git add .
