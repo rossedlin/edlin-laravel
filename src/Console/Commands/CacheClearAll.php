@@ -27,8 +27,8 @@ class CacheClearAll extends Command
     public function handle(): void
     {
         Artisan::call('cache:clear');
-        Artisan::call('route:cache');
-        Artisan::call('config:cache');
+        Artisan::call('route:clear');
+        Artisan::call('config:clear');
         Artisan::call('view:clear');
 
         prt('All Cache Cleared');
