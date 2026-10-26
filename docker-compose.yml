@@ -1,5 +1,5 @@
 services:
   web:
-   image: rossedlin/php-apache:7.4
+   image: rossedlin/php-apache:8.2
    volumes:
      - ./:/var/www
