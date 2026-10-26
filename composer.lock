@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "rossedlin/edlin-php",
-            "version": "5.0.0",
+            "version": "5.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rossedlin/edlin-php.git",
-                "reference": "30f2d5c82d91f31c6c5c0deb06ec51d10fb59e91"
+                "reference": "ef0b64e82dd12d6194cb89dae32d69421579207f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rossedlin/edlin-php/zipball/30f2d5c82d91f31c6c5c0deb06ec51d10fb59e91",
-                "reference": "30f2d5c82d91f31c6c5c0deb06ec51d10fb59e91",
+                "url": "https://api.github.com/repos/rossedlin/edlin-php/zipball/ef0b64e82dd12d6194cb89dae32d69421579207f",
+                "reference": "ef0b64e82dd12d6194cb89dae32d69421579207f",
                 "shasum": ""
             },
             "require": {
@@ -58,9 +58,9 @@
             ],
             "support": {
                 "issues": "https://github.com/rossedlin/edlin-php/issues",
-                "source": "https://github.com/rossedlin/edlin-php/tree/v5.0.0"
+                "source": "https://github.com/rossedlin/edlin-php/tree/v5.0.2"
             },
-            "time": "2026-10-26T08:03:06+00:00"
+            "time": "2026-10-26T08:25:52+00:00"
         }
     ],
     "packages-dev": [
